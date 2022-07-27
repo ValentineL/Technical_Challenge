@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  line-height: 1.4;
+}
+
+body {
+  margin: 0;
+  background-color: #f2f2f2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin-top: 0;
+}
